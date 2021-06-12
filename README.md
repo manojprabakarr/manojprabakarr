@@ -12,6 +12,6 @@
 <a href="https://github.com/manojprabakarr/snapchat-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manojprabakarr&repo=snapchat-clone&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/covid-tracker">
+<a href="https://github.com/manojprabakarr/covid-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manojprabakarr&repo=covid-tracker&theme=tokyonight" />
 </a>
