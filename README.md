@@ -1,6 +1,6 @@
 
 <a href="https://github.com/manojprabakarr">
-<img  align="center" height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojprabakarr&langs_count=8&theme=tokyonight"/>
+<img  align="center" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojprabakarr&langs_count=8&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/manojprabakarr">
